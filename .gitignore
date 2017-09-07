@@ -11,6 +11,7 @@
 *.userprefs
 
 # Build results
+[Oo]ut/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -301,3 +302,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+package-lock.json

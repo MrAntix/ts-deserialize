@@ -1,0 +1,14 @@
+{
+  "name": "deserialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc; node ./out/index"
+  },
+  "author": "Anthony Johnston <npm@antix.co.uk> (http://antix.co.uk)",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
